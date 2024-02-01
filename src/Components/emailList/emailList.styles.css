@@ -1,0 +1,7 @@
+.emailList{
+    justify-content: flex-start;
+    width: 85vw;
+    display: list-item;
+    grid-template-columns: auto;
+    align-self: flex-start;
+}

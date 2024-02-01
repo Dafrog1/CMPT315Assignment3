@@ -1,0 +1,6 @@
+.emailBody-container{
+
+    justify-self: flex-end;
+    align-self: flex-start;
+    background-color: red;
+}
